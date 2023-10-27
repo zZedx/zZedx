@@ -8,7 +8,6 @@ I'm a web developer from India, currently focusing on full-stack web development
 - Backend: Node.js, Express.js
 - Database: MongoDB
 - Tools: Git, VSCode
-- Other: [List any other technologies or tools you're familiar with]
 
 ### What I'm Working On
 
@@ -16,18 +15,13 @@ I'm currently working on expanding my React.js knowledge.
 
 ### Find Me Online
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-handle)
-- [Personal Website](https://www.yourwebsite.com)
+- [LinkedIn](https://www.linkedin.com/in/kartik-ajmera)
+<!-- - [Twitter](https://twitter.com/your-handle) -->
+- [Personal Website]([https://www.yourwebsite.com](https://insta-folio-omega.vercel.app/))
 
 ### My GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
-
-### My Latest Projects
-
-- [Project 1](link-to-project-1): Brief project description.
-- [Project 2](link-to-project-2): Brief project description.
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=zZedx&show_icons=true)
 
 Feel free to explore my GitHub repositories to see more of my work!
 
