@@ -12,7 +12,7 @@ I'm a web developer from India, currently focusing on full-stack web development
 
 ### What I'm Working On
 
-I'm currently working on [mention your current project or side project]. It's a [brief description of your project].
+I'm currently working on expanding my React.js knowledge.
 
 ### Find Me Online
 
