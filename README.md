@@ -2,6 +2,8 @@
 
 I'm a web developer from India, currently focusing on full-stack web development. I have experience with HTML, CSS, JavaScript, MongoDB, Node.js, Express.js, and React. My goal is to become a full-stack developer, and I'm passionate about learning new web technologies.
 
+---
+
 ### My Tech Stack
 
 - Frontend: React, HTML, CSS, JavaScript
@@ -9,19 +11,26 @@ I'm a web developer from India, currently focusing on full-stack web development
 - Database: MongoDB
 - Tools: Git, VSCode
 
+---
+
 ### What I'm Working On
 
 I'm currently working on expanding my React.js knowledge.
 
+---
+
 ### Find Me Online
 
 - [LinkedIn](https://www.linkedin.com/in/kartik-ajmera)
-<!-- - [Twitter](https://twitter.com/your-handle) -->
 - [Personal Website](https://insta-folio-omega.vercel.app/)
+<!-- - [Twitter](https://twitter.com/your-handle) -->
+---
 
 ### My GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=zZedx&show_icons=true)
+
+---
 
 Feel free to explore my GitHub repositories to see more of my work!
 
