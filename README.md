@@ -6,10 +6,10 @@ I'm a web developer from India, currently focusing on full-stack web development
 
 ### My Tech Stack
 
-- Frontend: React, HTML, CSS, JavaScript
-- Backend: Node.js, Express.js
-- Database: MongoDB
-- Tools: Git, VSCode
+- ⚡ Frontend: React, HTML, CSS, JavaScript
+- 🧠 Backend: Node.js, Express.js
+- 📊 Database: MongoDB
+- 🛠️ Tools: Git, VSCode
 
 ---
 
