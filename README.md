@@ -17,7 +17,7 @@ I'm currently working on expanding my React.js knowledge.
 
 - [LinkedIn](https://www.linkedin.com/in/kartik-ajmera)
 <!-- - [Twitter](https://twitter.com/your-handle) -->
-- [Personal Website]([https://www.yourwebsite.com](https://insta-folio-omega.vercel.app/))
+- [Personal Website](https://insta-folio-omega.vercel.app/)
 
 ### My GitHub Stats
 
