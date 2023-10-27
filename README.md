@@ -1,4 +1,4 @@
-### **Hi there 👋*
+### Hi there 👋
 
 I'm a web developer from India, currently focusing on full-stack web development. I have experience with HTML, CSS, JavaScript, MongoDB, Node.js, Express.js, and React. My goal is to become a full-stack developer, and I'm passionate about learning new web technologies.
 
