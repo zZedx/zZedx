@@ -4,16 +4,12 @@ I'm a web developer from India, currently focusing on full-stack web development
 
 ---
 
-### My Tech Stack
-
 - ⚡ **Frontend**: React, HTML, CSS, JavaScript
 - 🧠 **Backend**: Node.js, Express.js
 - 📊 **Database**: MongoDB
 - 🛠️ **Tools**: Git, VSCode
 
 ---
-
-### What I'm Working On
 
 I'm currently working on expanding my React.js knowledge.
 
@@ -25,8 +21,6 @@ I'm currently working on expanding my React.js knowledge.
 - [Personal Website](https://insta-folio-omega.vercel.app/)
 <!-- - [Twitter](https://twitter.com/your-handle) -->
 ---
-
-### My GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=zZedx&show_icons=true)
 
