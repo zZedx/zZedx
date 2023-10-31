@@ -15,13 +15,6 @@ I'm currently working on expanding my React.js knowledge.
 
 ---
 
-### Find Me Online
-
-- [LinkedIn](https://www.linkedin.com/in/kartik-ajmera)
-- [Personal Website](https://insta-folio-omega.vercel.app/)
-<!-- - [Twitter](https://twitter.com/your-handle) -->
----
-
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=zZedx&show_icons=true)
 
 ---
