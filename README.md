@@ -11,10 +11,6 @@ I'm a web developer from India, currently focusing on full-stack web development
 
 ---
 
-I'm currently working on expanding my React.js knowledge.
-
----
-
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=zZedx&show_icons=true)
 
 ---
