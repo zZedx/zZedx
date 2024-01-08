@@ -4,7 +4,7 @@ I'm a web developer from India, currently focusing on full-stack web development
 
 ---
 
-- ⚡ **Frontend**: React, HTML, CSS, JavaScript
+- ⚡ **Frontend**: React, HTML, CSS, JavaScript , TypeScript , Next.js
 - 🧠 **Backend**: Node.js, Express.js
 - 📊 **Database**: MongoDB
 - 🛠️ **Tools**: Git, VSCode
