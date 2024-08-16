@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-I'm a web developer from India, currently focusing on full-stack web development. My goal is to become a full-stack developer, and I'm passionate about learning new web technologies.
+I'm a full stack developer proficient in designing, developing, and deploying scalable web applications.
 
 ---
 
-- ⚡ **Frontend**: React, HTML, CSS, JavaScript , TypeScript , Next.js
-- 🧠 **Backend**: Node.js, Express.js
-- 📊 **Database**: MongoDB
-- 🛠️ **Tools**: Git, VSCode
+- ⚡ **Frontend**: React, HTML, CSS, JavaScript, TypeScript, Next.js 
+- 🧠 **Backend**: Node.js, Express.js, Nest.js 
+- 📊 **Database**: MongoDB, MySql
+- 🛠️ **Tools**: Git, Docker, VSCode
 
 ---
 
